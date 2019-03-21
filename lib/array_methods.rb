@@ -27,6 +27,3 @@ end
 def using_size(array)
   array.size
 end
-
-my_array = ["noodles", "soup", "carrots"]
-puts using_size(my_array)
