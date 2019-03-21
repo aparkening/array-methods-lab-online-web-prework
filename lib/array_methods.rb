@@ -27,3 +27,6 @@ end
 def using_size(array)
   array.size
 end
+
+my_array = ["noodles", "soup", "carrots"]
+using_size(my_array)
