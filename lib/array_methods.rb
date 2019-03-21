@@ -29,4 +29,4 @@ def using_size(array)
 end
 
 my_array = ["noodles", "soup", "carrots"]
-using_size(my_array)
+puts using_size(my_array)
